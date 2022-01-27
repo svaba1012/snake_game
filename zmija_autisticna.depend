@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1643288145 source:c:\users\svaba1012\documents\cpp\zmija_autisticna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"wait.h"
+	"queue.h"
+	"highscore.h"
+
+1587662303 c:\users\svaba1012\documents\cpp\zmija_autisticna\queue.h
+
+1587756880 source:c:\users\svaba1012\documents\cpp\zmija_autisticna\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1593953525 c:\users\svaba1012\documents\cpp\zmija_autisticna\wait.h
+	<time.h>
+	<stdbool.h>
+
+1593953747 source:c:\users\svaba1012\documents\cpp\zmija_autisticna\wait.c
+	"wait.h"
+
+1643288908 source:c:\users\svaba1012\documents\cpp\zmija_autisticna\highscore.c
+	"highscore.h"
+
+1643286180 c:\users\svaba1012\documents\cpp\zmija_autisticna\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1643288145 source:c:\users\svaba1012\desktop\github projects\zmija_autisticna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"wait.h"
+	"queue.h"
+	"highscore.h"
+
+1593953525 c:\users\svaba1012\desktop\github projects\zmija_autisticna\wait.h
+	<time.h>
+	<stdbool.h>
+
+1587662303 c:\users\svaba1012\desktop\github projects\zmija_autisticna\queue.h
+
+1643286180 c:\users\svaba1012\desktop\github projects\zmija_autisticna\highscore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1587756880 source:c:\users\svaba1012\desktop\github projects\zmija_autisticna\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1593953747 source:c:\users\svaba1012\desktop\github projects\zmija_autisticna\wait.c
+	"wait.h"
+
